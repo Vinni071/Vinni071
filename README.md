@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre mim
 
 <p align="left">
-  Sou um estudante de ciência da computação apaixonado por tecnologia e inovação, atualmente focado em aprender sobre Análise de dados e desenvolvimento web.
+  Sou um estudante de ciência da computação apaixonado por tecnologia e inovação, atualmente focado em aprender sobre o ERP Protheus e desenvolvimento web.
 </p>
 
 - 🔭 Atualmente estou trabalhando em WHB AUTOMOTIVE S/A.
