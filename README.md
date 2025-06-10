@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre mim
 
 <p align="left">
-  Sou um [Sua Profissão/Ocupação] apaixonado por tecnologia e inovação, atualmente focado em [Sua Área de Foco].
+  Sou um estudante de ciência da computação apaixonado por tecnologia e inovação, atualmente focado em aprender sobre Análise de dados e desenvolvimento web.
 </p>
 
 - 🔭 Atualmente estou trabalhando em WHB AUTOMOTIVE S/A.
@@ -34,13 +34,12 @@
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Minhas Redes Sociais
 
 <p align="left">
-<a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/seu-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seu-twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/seu-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
-<a href="https://seu-site.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="seu-site.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-rodrigues-da-costa-075543238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/vinicius_costa_071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
+<a href="https://vinni071.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="seu-site.com" height="30" width="40" /></a>
 </p>
 
 ---
