@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d60000&height=120&section=header"/>
+
+---
+
 <h1 align="center">👋 Olá, eu sou o Vinicius! 👨‍💻</h1>
 
 <p align="center">
@@ -8,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/Vinni071">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinni071&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinni071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Vinni071">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinni071&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinni071&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
