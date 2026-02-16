@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Vinni071">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinni071&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-  </a>
-</p>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinni071&theme=high-contrast&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
