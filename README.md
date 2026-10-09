@@ -10,15 +10,11 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinni071&theme=high-contrast&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando na **WHB Automotive S/A**
-- 📚 Estudando **ERP Protheus**, **PHP**, **AdvPL** e **TL++**
-- 🎯 Focado em **desenvolvimento web e ERPs**
+- 📚 Estudando **ERP Protheus**, **AdvPL** e **TL++**
+- 🎯 Focado em **Desenvolvimento Full Stack e ERPs**
 - 📫 Contato: [viniciusr.costa078@gmail.com](mailto:viniciusr.costa078@gmail.com)
 
 ---
